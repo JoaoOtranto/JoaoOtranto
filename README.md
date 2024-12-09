@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaoOtranto
 - 👀 I’m interested in Java, JavaScript and Web Development
 - 🌱 I’m currently learning Java, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate at projects that help me develop my development skills
+- 💞️ I’m looking to collaborate at projects that help me develop my skills
 - 📫 How to reach my Instagram: @joaootranto
 
 <!---
